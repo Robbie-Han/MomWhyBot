@@ -53,3 +53,9 @@ export SERPAPI_API_KEY='your-serpapi-api-key'
    ```
    pip install -r requirements.txt
    ```
+## 示例
+- 运行示例：
+![demo](./demo_1.jpg)
+
+- 运行日志示例：
+![log](./run_log.jpg)
